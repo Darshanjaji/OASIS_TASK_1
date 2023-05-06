@@ -1,0 +1,53 @@
+body{
+    background-color:gray ;
+    color: rgb(20, 19, 19);
+}
+.navbar{
+    height:15%;
+    position: static;
+}
+.logo{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+
+}
+.one{
+    position: absolute;
+    margin-left: 50%;
+    
+    height: 40px;
+    width: 300px;
+    
+}
+
+.two{
+    position: absolute;
+    margin-bottom:0%;
+    margin-left: 70%;
+    width: 300px;
+    height: 40px;
+}
+.pricing-column{
+    height: 300px;
+    width: 300px;
+    padding: 3% 2%;
+  }
+  .new{
+    margin-left:40%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .btn1{
+    
+    border-radius: 12px;
+    background-color: black;
+    color:white;
+  }
+  .btn1:hover{
+    background-color: rebeccapurple;
+  }
+.card{
+    background-color: #e8e2e2;
+    color:white;
+}
